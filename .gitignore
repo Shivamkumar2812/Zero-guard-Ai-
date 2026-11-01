@@ -1,0 +1,26 @@
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+frontend/.git/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+backend/.venv/
+backend/.semgrep-venv/
+.venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated scan files
+backend/semgrep_output.json
+backend/semgrep_temp_test.json
+
+# Large local ML dataset
+ml/data/
