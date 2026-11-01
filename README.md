@@ -187,6 +187,11 @@ ZeroGuard-AI/
 
 ---
 Screenshots
+<img width="1893" height="870" alt="Screenshot 2026-11-01 195357" src="https://github.com/user-attachments/assets/63992a7d-f276-4e84-86a3-b982686a24db" />
+<img width="1916" height="865" alt="Screenshot 2026-11-01 195420" src="https://github.com/user-attachments/assets/923d66b8-af80-49d0-a19f-b3981388b529" />
+<img width="1897" height="856" alt="Screenshot 2026-11-01 195434" src="https://github.com/user-attachments/assets/edad3e55-7c02-4e46-9db2-f60656dec18d" />
+<img width="1915" height="862" alt="Screenshot 2026-11-01 195458" src="https://github.com/user-attachments/assets/9ef07998-192f-45e5-9851-c96600461549" />
+<img width="1897" height="861" alt="Screenshot 2026-11-01 195511" src="https://github.com/user-attachments/assets/81f4aa9c-3c99-4d22-93d0-4a84102b1f98" />
 <img width="1897" height="861" alt="image" src="https://github.com/user-attachments/assets/b1f5c178-39f5-4a9f-b37c-df5cb14e5bb2" />
 <img width="1915" height="862" alt="Screenshot 2026-11-01 195458" src="https://github.com/user-attachments/assets/7b250231-02b5-451d-8800-948825d56e11" />
 
