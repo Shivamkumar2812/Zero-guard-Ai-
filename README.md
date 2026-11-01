@@ -186,6 +186,11 @@ ZeroGuard-AI/
 *The structure above shows the main project components. Individual files and folders may differ as development progresses.*
 
 ---
+Screenshots
+<img width="1897" height="861" alt="image" src="https://github.com/user-attachments/assets/b1f5c178-39f5-4a9f-b37c-df5cb14e5bb2" />
+<img width="1915" height="862" alt="Screenshot 2026-11-01 195458" src="https://github.com/user-attachments/assets/7b250231-02b5-451d-8800-948825d56e11" />
+
+
 
 ## 🚀 Getting Started
 
