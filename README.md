@@ -363,6 +363,12 @@ A formal open-source license can be added when the project licensing terms are d
 
 <div align="center">
 
+
+
+Live project link:-
+https://site-deploy-118--96bys9pt.preview.emergentagent.com/?utm_source=share
+https://main.d2vuivsaz9od1o.amplifyapp.com/
+
 ### 🛡️ ZeroGuard AI
 
 **Building a safer digital future, one vulnerability at a time.**
